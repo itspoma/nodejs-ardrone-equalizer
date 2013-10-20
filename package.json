@@ -1,0 +1,9 @@
+{
+  "author": "",
+  "version": "0.2.0",
+  
+  "dependencies": {
+    "colors": ">=0",
+    "ar-drone": "*"
+  }
+}
