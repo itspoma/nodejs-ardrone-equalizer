@@ -1,2 +1,3 @@
-$ npm install
-$ node app/drone.js
+$ **npm install**
+
+$ **node app/drone.js**
